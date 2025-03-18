@@ -1,0 +1,22 @@
+Analyse exploratoire des données Netflix
+
+Tu es Data Analyst dans une startup de Streaming Vidéos. Ton entreprise veut réaliser une étude de la concurence avant de lancer son offre de Streaming. 
+Vous disposez des données de Netflix, l'un des leader mondial du streaming vidéo. 
+Ton rôle est d'effectuer une analyse exploratoire et exhaustive de ces données afin de tirer le maximum d'informations utiles à la décision. Les livrables demandés :
+
+- Un notebook avec tous les codes, résultats, explications des codes et commentaires des résultats ;
+- une présentation PowerPoint pour présenter les résultats principaux aux parties prenantes avec un bon Storytelling.
+
+Instructions
+
+1. Lecture des données : Lire le fichier netflix_titles.csv pour examiner son contenu.
+
+2. Analyse exploratoire des données (EDA) : 
+Nous examinerons les caractéristiques des données, y compris les types de contenu, les genres, les durées, les pays d'origine, etc.
+
+3. Visualisation des résultats : 
+Nous créerons des graphiques pour visualiser les principales tendances et insights.
+
+4. Préparation des livrables :
+
+Notebook avec tous les codes et explications
